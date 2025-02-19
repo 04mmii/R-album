@@ -36,11 +36,11 @@
 4. 북마크 기능
     - 사용자가 이미지에 좋아요 표시 가능
     - 북마크 상태 로컬 스토리지 저장 및 모아보기
-
+---
 ![Screenshot 2025-02-19 at 11 34 39](https://github.com/user-attachments/assets/af3d7361-c147-4a87-968b-9f5d78c18e09)
-
+---
 ![Screenshot 2025-02-19 at 11 35 41](https://github.com/user-attachments/assets/b63aa2d6-3142-4e30-bba6-736a735d0748)
-
+---
 
 **React Hooks** 
 
